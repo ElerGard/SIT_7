@@ -1,0 +1,18 @@
+{
+    "name": "vendor/site_7",
+    "type": "project",
+    "require": {
+        "ext-pdo_mysql": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Vendor\\Site7\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ElerGard",
+            "email": "norfick@mail.ru"
+        }
+    ]
+}
